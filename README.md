@@ -1,4 +1,4 @@
-TiltGameProject
+# TiltGameProject
 The Tilt Game is a complex and challenging puzzle, where the aim is to navigate sliders across a square grid, maneuvering them around fixed obstacles until they reach a target location. This intricate problem-solving exercise incorporates algorithmic strategy, dynamic programming, and efficient memory management.
 
 The game board is presented in the form of an NxN matrix, with distinct characters representing movable sliders, obstacles or empty spaces. A specific square is denoted as the target. The project goal is to construct an efficient algorithm to identify and execute the sequence of movements necessary to position a slider at the target location, while minimizing memory footprint and observing performance bound constraints.
